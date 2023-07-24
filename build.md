@@ -1,6 +1,12 @@
+YouTube: 18.23.35  
+Twitch: 15.4.1  
 Music: 6.11.52  
+Reddit: 2023.28.0  
 Messenger: 418.0.0.11.71  
+Twitter: 9.98.0-release.0  
 Instagram: 275.0.0.27.98  
+
+Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
