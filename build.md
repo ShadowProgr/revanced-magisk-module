@@ -1,7 +1,6 @@
-YouTube: 18.23.35  
-Twitch: 15.4.1  
-Reddit: 2023.28.0  
-Twitter: 9.98.0-release.0  
+Music: 6.11.52  
+Messenger: 418.0.0.11.71  
+Instagram: 275.0.0.27.98  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
