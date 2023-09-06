@@ -1,19 +1,24 @@
-YouTube: 18.23.35  
+YouTube: 18.32.39  
 Twitch: 15.4.1  
-Music: 6.16.52  
-Reddit: 2023.33.1  
-Twitter: 10.4.0-release.0  
+Music: 6.17.52  
+Reddit: 2023.35.0  
+Messenger: 424.0.0.25.113  
+Twitter: 10.5.0-release.1  
 Instagram: 275.0.0.27.98  
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
+
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.116.2.apk  
-Patches: ReVanced/revanced-patches-2.188.1.jar  
+CLI: j-hc/revanced-cli-3.1.0-all.jar  
+Integrations: ReVanced/revanced-integrations-0.117.1.apk  
+Patches: ReVanced/revanced-patches-2.190.0.jar  
 
-#### [2.188.1](https://github.com/ReVanced/revanced-patches/compare/v2.188.0...v2.188.1) (2023-08-27)
+### [2.190.0](https://github.com/ReVanced/revanced-patches/compare/v2.189.0...v2.190.0) (2023-09-03)
 ### Bug Fixes
-* Revert previous release ([ed24a20](https://github.com/ReVanced/revanced-patches/commit/ed24a201a9fbe08dd6694582d0ab08ced8ad026a))
+* **Infinity for Reddit - Spoof client:** Support latest version ([8a5311b](https://github.com/ReVanced/revanced-patches/commit/8a5311b1e645ca2aab1e416d647cf52bf0be6e7f))
+### Features
+* **Photomath:** Support latest version ([5a2cad0](https://github.com/ReVanced/revanced-patches/commit/5a2cad077f03880ee1417c5cfd448bbdea4c07e2))
+* **Twitch:** Support version `16.1.0` ([#2923](https://github.com/ReVanced/revanced-patches/issues/2923)) ([d9834a9](https://github.com/ReVanced/revanced-patches/commit/d9834a9abb43390af4cb33f5dd5a0e2d3b7060e2))
 
 ---  
