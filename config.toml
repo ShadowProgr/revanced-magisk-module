@@ -7,7 +7,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 version = "auto"
 build-mode = "module"
-excluded-patches = "custom-branding vanced-microg-support"
+excluded-patches = "'Vanced MicroG support' 'Custom branding'"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
