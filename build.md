@@ -1,7 +1,9 @@
-Twitch: 16.9.1  
 Reddit: 2023.50.1  
 Twitter: 10.20.0-release.0  
+Twitch: 16.9.1  
 YouTube: 18.45.43  
+Messenger: 439.0.0.29.119  
+Instagram: 275.0.0.27.98  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
