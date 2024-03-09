@@ -1,8 +1,8 @@
+Reddit: 2024.08.0  
 Music: 6.41.58  
 Twitter: 10.30.0-release.0  
 Twitch: 16.9.1  
 Messenger: 448.0.0.47.109  
-Reddit: 2024.08.0  
 Instagram: 275.0.0.27.98  
 YouTube: 19.04.37  
 
@@ -12,7 +12,7 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)  
 
 Changelog:  
-CLI: j-hc/revanced-cli-4.3.0-all.jar  
+CLI: j-hc/revanced-cli-4.4.1-all.jar  
 Integrations: ReVanced/revanced-integrations-1.4.0.apk  
 Patches: ReVanced/revanced-patches-4.3.0.jar  
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.3.0)  
