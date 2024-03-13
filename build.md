@@ -1,9 +1,9 @@
+Reddit: 2024.11.0  
+Music: 6.43.52  
 Twitter: 10.31.0-release.0  
+Messenger: 449.0.0.47.111  
 Twitch: 16.9.1  
-Music: 6.42.55  
-Messenger: 448.0.0.47.109  
 Instagram: 275.0.0.27.98  
-Reddit: 2024.10.1  
 YouTube: 19.04.37  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
