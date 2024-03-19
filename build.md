@@ -2,7 +2,7 @@ Twitch: 16.9.1
 Music: 6.43.52  
 Messenger: 449.0.0.47.111  
 Instagram: 275.0.0.27.98  
-Reddit: 2024.11.0  
+Reddit: 2024.12.0  
 Twitter: 10.32.0-release.1  
 YouTube: 19.04.37  
 
