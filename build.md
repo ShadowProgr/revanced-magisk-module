@@ -1,6 +1,6 @@
-Music: 6.45.54  
-Twitch: 16.9.1  
 Reddit: 2024.13.0  
+Twitch: 16.9.1  
+Music: 6.45.54  
 Messenger: 451.1.0.59.109  
 Twitter: 10.34.0-release.0  
 Instagram: 324.0.0.27.50  
