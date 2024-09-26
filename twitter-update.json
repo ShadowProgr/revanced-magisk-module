@@ -1,6 +1,6 @@
 {
-  "version": "v10.59.0-release.0",
-  "versionCode": 90,
-  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/90/twitter-revanced-magisk-v10.59.0-release.0-all.zip",
+  "version": "v10.59.1-release.0",
+  "versionCode": 91,
+  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/91/twitter-revanced-magisk-v10.59.1-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/ShadowProgr/revanced-magisk-module/update/build.md"
 }
