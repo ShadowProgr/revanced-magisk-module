@@ -1,6 +1,6 @@
 {
-  "version": "v2024.17.0 (patches: 5.8.1)",
-  "versionCode": 102,
-  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/102/reddit-revanced-magisk-v2024.17.0-arm64-v8a.zip",
+  "version": "v2024.17.0 (patches: 5.9.0)",
+  "versionCode": 103,
+  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/103/reddit-revanced-magisk-v2024.17.0-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/ShadowProgr/revanced-magisk-module/update/build.md"
 }
