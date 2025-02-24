@@ -1,6 +1,5 @@
 Messenger: 439.0.0.29.119  
 Music: 8.05.51  
-Reddit: 2024.17.0  
 YouTube: 19.47.53  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
