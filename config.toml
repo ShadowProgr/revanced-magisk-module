@@ -20,7 +20,6 @@ build-mode = "module"
 [Twitch]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
-arch = "universal"
 build-mode = "module"
 
 [Twitter]
