@@ -1,6 +1,6 @@
 {
-  "version": "v16.9.1 (patches 5.45.0)",
-  "versionCode": 145,
-  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/145/twitch-revanced-magisk-v16.9.1-all.zip",
+  "version": "v16.9.1 (patches 5.46.0)",
+  "versionCode": 146,
+  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/146/twitch-revanced-magisk-v16.9.1-all.zip",
   "changelog": "https://raw.githubusercontent.com/ShadowProgr/revanced-magisk-module/update/build.md"
 }
