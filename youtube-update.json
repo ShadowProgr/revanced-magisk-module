@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches 1.15.0.mpp)",
-  "versionCode": 152,
-  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/152/youtube-revanced-magisk-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches 1.16.0.mpp)",
+  "versionCode": 153,
+  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/153/youtube-revanced-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/ShadowProgr/revanced-magisk-module/update/build.md"
 }
