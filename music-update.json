@@ -1,6 +1,6 @@
 {
   "version": "v8.51.51 (patches 1.31.0.mpp)",
-  "versionCode": 158,
-  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/158/music-revanced-module-v8.51.51-arm64-v8a.zip",
+  "versionCode": 160,
+  "zipUrl": "https://github.com/ShadowProgr/revanced-magisk-module/releases/download/160/music-revanced-module-v8.51.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/ShadowProgr/revanced-magisk-module/update/build.md"
 }
